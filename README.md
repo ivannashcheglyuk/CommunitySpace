@@ -39,7 +39,7 @@ Here's a walkthrough of implemented required features:
 
 <img src='https://github.com/ivannashcheglyuk/CommunitySpace/blob/main/Project%233%20video.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='https://github.com/ivannashcheglyuk/CommunitySpace/blob/main/reander%233.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='https://github.com/ivannashcheglyuk/CommunitySpace/blob/main/Project%233%20video.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ivannashcheglyuk/CommunitySpace/blob/main/table%233%20project.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  GIF tool here
